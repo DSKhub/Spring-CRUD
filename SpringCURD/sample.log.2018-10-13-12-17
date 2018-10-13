@@ -1,6 +1,0 @@
-2018-10-13 12:17:46 TRACE com.scp.java.spring.curd.operation.SpringCURD.main.TestMain:68 - Sample Trace Message
-2018-10-13 12:17:46 DEBUG com.scp.java.spring.curd.operation.SpringCURD.main.TestMain:69 - Sample debug message
-2018-10-13 12:17:46 INFO  com.scp.java.spring.curd.operation.SpringCURD.main.TestMain:70 - Sample info message
-2018-10-13 12:17:46 WARN  com.scp.java.spring.curd.operation.SpringCURD.main.TestMain:71 - Sample warn message
-2018-10-13 12:17:46 ERROR com.scp.java.spring.curd.operation.SpringCURD.main.TestMain:72 - Sample error message
-2018-10-13 12:17:46 FATAL com.scp.java.spring.curd.operation.SpringCURD.main.TestMain:73 - Sample fatal message
