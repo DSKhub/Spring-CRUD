@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="157" started-at="2018-10-13T07:36:20Z" finished-at="2018-10-13T07:36:20Z">
+    <groups>
+    </groups>
+    <test name="calc" duration-ms="157" started-at="2018-10-13T07:36:20Z" finished-at="2018-10-13T07:36:20Z">
+      <class name="com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="beforeSuite" is-config="true" duration-ms="101" started-at="2018-10-13T13:06:19Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="beforeTest" is-config="true" duration-ms="1" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="beforeClass" is-config="true" duration-ms="1" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="userNameNullTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="userNameNullTest" duration-ms="40" started-at="2018-10-13T13:06:20Z" data-provider="loginData" finished-at="2018-10-13T13:06:20Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[UserName can not Empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userNameNullTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="userNameNullTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="userNameNullTest" duration-ms="8" started-at="2018-10-13T13:06:20Z" data-provider="loginData" finished-at="2018-10-13T13:06:20Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DSK]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[UserName can not Empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userNameNullTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="userNameNullTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="userNameNullTest" duration-ms="3" started-at="2018-10-13T13:06:20Z" data-provider="loginData" finished-at="2018-10-13T13:06:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Deepali]]>
+              </value>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Password can not Empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userNameNullTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="userNameNullTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="userNameNullTest" duration-ms="2" started-at="2018-10-13T13:06:20Z" data-provider="loginData" finished-at="2018-10-13T13:06:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DSK]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DSK]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid Credential]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userNameNullTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="userNameNullTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="userNameNullTest" duration-ms="2" started-at="2018-10-13T13:06:20Z" data-provider="loginData" finished-at="2018-10-13T13:06:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dsk@143]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Deepali]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid Credential]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userNameNullTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="userNameNullTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="userNameNullTest" duration-ms="2" started-at="2018-10-13T13:06:20Z" data-provider="loginData" finished-at="2018-10-13T13:06:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Deepali]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dsk@143]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Login Successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userNameNullTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="afterTest" is-config="true" duration-ms="1" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest@1565ec2]" name="afterSuite" is-config="true" duration-ms="0" started-at="2018-10-13T13:06:20Z" finished-at="2018-10-13T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.scp.java.spring.curd.operation.SpringCURD.UserAuthenticationTest -->
+    </test> <!-- calc -->
+  </suite> <!-- Suite -->
+</testng-results>
